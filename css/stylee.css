@@ -1,0 +1,60 @@
+
+#food-menu {
+    position: relative;
+    padding: 60px 0 30px 0;
+    text-align: center;
+    background: #ffffff;
+}
+
+#food-menu .single-menu {
+    position: relative;
+    text-align: center;
+    font-weight: 400;
+    margin: 0 0 30px 0;
+    padding: 0;
+    border-radius: 6px;
+    background: #f2f2f2;
+}
+
+#food-menu .single-menu img {
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 6px 6px 0 0;
+}
+
+#food-menu .single-menu h4 {
+    padding: 0 15px;
+    color: #006400;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+#food-menu .single-menu span {
+    padding: 0 15px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#food-menu .single-menu p {
+    padding: 0 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#food-menu .single-menu a {
+    display: inline-block;
+    margin: 10px 0 30px 0;
+    padding: 7px 30px;
+    color: #FFD700;
+    background: #006400;
+    border-radius: 30px;
+}
+
+#food-menu .single-menu:hover a {
+    color: #006400;
+    background: #FFD700;
+}
